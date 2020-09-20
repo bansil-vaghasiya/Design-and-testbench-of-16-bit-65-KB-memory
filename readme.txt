@@ -1,0 +1,1 @@
+Design and assertion based verification of 16bit wide 64KB memory unit. 
